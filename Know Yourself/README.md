@@ -5,7 +5,7 @@
             <img src="Screens/Screenshot_1.jpg" alt="">
         </td>
         <td width="50%">
-            Database in DB folder<br>
+            My first Applicationr<br>
             Unity ver: 2020.3 LTS<br>
         </td>
     </tr>
