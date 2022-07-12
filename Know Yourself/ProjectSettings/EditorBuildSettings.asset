@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/First window.unity
+    guid: 8bd8778e3bc9b8e4897ba87310191cc8
+  - enabled: 1
+    path: Assets/Scenes/Registration.unity
+    guid: dfad5a5350713c347be95e5eb336b0b8
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: d4b742eea2bed40498985742ade60b03
+  - enabled: 1
+    path: Assets/Scenes/MyCopybook.unity
+    guid: 2bb66b95b4c842f41901bce8a65a3c13
+  - enabled: 1
+    path: Assets/Scenes/MyWay.unity
+    guid: f4cc1ec9263fa424389678ead415ceb1
+  - enabled: 1
+    path: Assets/Scenes/MyBook.unity
+    guid: 9aed31c551b34f54eb566b7ffe9dfe7a
+  - enabled: 1
+    path: Assets/Scenes/Days/Day 1.unity
+    guid: b78dfd8eb58318f498cbb4b42c9341da
+  - enabled: 1
+    path: Assets/Scenes/Days/Day 2.unity
+    guid: d75635b0fdd5aaa42bca999aa215b37e
+  - enabled: 1
+    path: Assets/Scenes/Days/Day 3.unity
+    guid: 9b7f4da77130c4645b0a7222dc9e5649
+  - enabled: 1
+    path: Assets/Scenes/Days/Day 4.unity
+    guid: 168bfe04cbcf1c142bac473a4b9eb897
+  - enabled: 1
+    path: Assets/Scenes/Days/Day 5.unity
+    guid: 8cd041dff96831b48b454fae2399c773
+  - enabled: 1
+    path: Assets/Scenes/Days/Day 6.unity
+    guid: 3a3bf5a41c84c144cbbdbe83159628c9
+  - enabled: 1
+    path: Assets/Scenes/Days/Day 7.unity
+    guid: 6538010c49f18694b85a58868f2fc68d
+  - enabled: 1
+    path: Assets/Scenes/Days/Day 8.unity
+    guid: 9679a90e8a9ccd94488f8b4120d23a78
+  - enabled: 1
+    path: Assets/Scenes/Days/Day 9.unity
+    guid: b591ee155045fdd47915815507717f24
+  - enabled: 1
+    path: Assets/Scenes/Days/Day 10.unity
+    guid: 047eaf59a28e1d54b8f8eac957648d41
+  - enabled: 1
+    path: Assets/Scenes/Days/Day 11.unity
+    guid: 476266bb6292ac94f8d7fc762960682e
+  - enabled: 1
+    path: Assets/Scenes/Days/Day 12.unity
+    guid: 35eb57a976521a242a36d918d827a7cc
+  - enabled: 1
+    path: Assets/Scenes/Days/Day 13.unity
+    guid: d567b55d0ed81534880377d0b11b89b4
+  - enabled: 1
+    path: Assets/Scenes/Days/Day 14.unity
+    guid: ade45372b0373e247bebfdd97b1fb9a9
+  - enabled: 1
+    path: Assets/Scenes/Days/Day 15.unity
+    guid: 38ee691b688adbb43a0220d40820c3b4
+  - enabled: 1
+    path: Assets/Scenes/Days/Day 16.unity
+    guid: ad2912acc7c2f1143abbe37c7360144d
+  - enabled: 1
+    path: Assets/Scenes/Days/Day 17.unity
+    guid: 871aaa6b09777bd44978bb8cf1a9a04f
+  - enabled: 1
+    path: Assets/Scenes/Days/Day 18.unity
+    guid: 0d82c6e29e5ac2d4d8bf21f08e44706c
+  - enabled: 1
+    path: Assets/Scenes/Days/Day 19.unity
+    guid: e4456065775c001418a4ae2ae32dc429
+  - enabled: 1
+    path: Assets/Scenes/Days/Day 20.unity
+    guid: 1e333bad04815474ab3fa35679b7fb78
+  - enabled: 1
+    path: Assets/Scenes/Days/Day 21.unity
+    guid: 179cd7181a5d6d64a9e3ff519d183250
+  - enabled: 1
+    path: Assets/Scenes/Days/Day 22.unity
+    guid: 8652a08e3d7d4424694cb82d2dd1c79d
+  - enabled: 1
+    path: Assets/Scenes/Days/Day 23.unity
+    guid: 2791a6b07e681d749bee4edcfff97768
+  - enabled: 1
+    path: Assets/Scenes/Days/Day 24.unity
+    guid: b1a947fc6ca08aa439f91206335b2ad0
+  - enabled: 1
+    path: Assets/Scenes/Days/Day 25.unity
+    guid: 3b788b300741ad24eaac405b5ab65852
+  - enabled: 1
+    path: Assets/Scenes/Days/Day 26.unity
+    guid: b60edcdb51ba4c74c944b9f14c9710eb
+  - enabled: 1
+    path: Assets/Scenes/Days/Day 27.unity
+    guid: 38494c90d5f8af24eaa50dcad33021bd
+  - enabled: 1
+    path: Assets/Scenes/Days/Day 28.unity
+    guid: 2bd9cc740fdc70b43888cc7c5835a5cb
+  - enabled: 1
+    path: Assets/Scenes/Days/Day 29.unity
+    guid: 49c16287cb6467c44943d7c698fb8031
+  - enabled: 1
+    path: Assets/Scenes/Days/Day 30.unity
+    guid: 124e167804173544ea71b93d43d18bd0
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 2cc5cd0626083ce42853d9c260bc0a7e, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: 6fcfc0df37e44224e8a0c84144c8d0d6, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: ed1ffd320a995484e9d6fee13360dea3, type: 2}
