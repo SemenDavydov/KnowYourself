@@ -2,7 +2,7 @@
 <table>
     <tr>
         <td>
-            <img src="Screens/Screenshot_1.png" alt="">
+            <img src="Screens/Screenshot_1.jpg" alt="">
         </td>
         <td width="50%">
             Database in DB folder<br>
